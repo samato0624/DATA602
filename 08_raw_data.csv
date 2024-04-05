@@ -1,5 +1,3 @@
-﻿Dataset for People for their Blood Glucose Level with their Superficial Body Feature readings.,,,,,,,,,
-,,,,,,,,,
 Age,Blood Glucose Level(BGL),Diastolic Blood Pressure,Systolic Blood Pressure,Heart Rate,Body Temperature,SPO2,Sweating  (Y/N),Shivering (Y/N),Diabetic/NonDiabetic (D/N)
 9,79,73,118,98,98.30070675,99,0,0,N
 9,80,73,119,102,98.30070675,94,1,0,N
